@@ -223,7 +223,7 @@ Planned / possible extensions:
 
 ## 🧑‍💻 Author
 
-Built with ❤️ by **Aarohi**
+Built with ❤️ by **Shreya Chauhan**
 
 Computer Science Engineering (B.Tech)
 
